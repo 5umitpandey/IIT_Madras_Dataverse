@@ -1,3 +1,8 @@
+# IIT Madras | Dataverse Hackathon
+
+![6930a51ac4598_dataverse-the-business-analytics-challenge](https://github.com/user-attachments/assets/b1ee218d-2a35-4ba5-a14e-2adbdac20e6c)
+
+
 # Food Restaurant Data Intelligence & Market Strategy Analysis
 
 This project presents an end to end data analysis and market intelligence framework built on a global food restaurant dataset.  
